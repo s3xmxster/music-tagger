@@ -38,3 +38,13 @@ For best results, the file should have a name similar to this format:
 
 ```text
 Artist_-_Title
+```
+
+ **Important note:**
+Music Tagger uses external services to search for metadata and artwork. 
+In some regions, access to these services may be restricted.  If the program shows network errors, check your internet connection and use workarounds if necessary (VPN or, for example, zapret). If you are using zapret, then insert the following domains in list-general.txt:
+
+> `musicbrainz.org`  
+> `coverartarchive.org`  
+> `archive.org`  
+> `s3.us.archive.org`
