@@ -26,6 +26,7 @@ The program is designed for convenient music library cleanup: it can parse track
   - **AAC**
   - **OGG**
   - **WAV**
+- Supported languages: ru/en
 
 ---
 
